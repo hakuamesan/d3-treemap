@@ -8,3 +8,6 @@ Thanks to:
 - D3.js for the impatient by Philipp K. Janert
 - https://www.d3-graph-gallery.com/graph/treemap_basic.html
 - https://observablehq.com/@d3/treemap
+
+
+![](FCC-Tree-Map.png?raw=true)
