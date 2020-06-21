@@ -1,7 +1,7 @@
 # D3.js Treemap
 FCC Project - D3.js Treemap 
 
-Live Version: https://codepen.io/ananth2020/pen/wvKBJJL
+Live Version: https://codepen.io/ananth2020/full/wvKBJJL
 
 Thanks to:
 
